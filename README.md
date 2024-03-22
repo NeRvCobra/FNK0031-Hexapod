@@ -46,4 +46,4 @@ un ejemplo de uso, donde se detalla una forma de llenar la Lista con la accion e
 
 La documentación del robot está incluida en un archivo pdf llamado [Documentación Robot Python.pdf](https://github.com/NeRvCobra/FNK0031-Hexapod/blob/main/Documentacio%CC%81n%20Robot%20Python.pdf).
 
-![Mr Increible Chambeador](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FJasperDevYT%2Fstatus%2F1659324235280523264&psig=AOvVaw1u-duO6yzaAhKVhULKDevi&ust=1711221277094000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjJspXKiIUDFQAAAAAdAAAAABAD)https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FJasperDevYT%2Fstatus%2F1659324235280523264&psig=AOvVaw1u-duO6yzaAhKVhULKDevi&ust=1711221277094000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjJspXKiIUDFQAAAAAdAAAAABAD)
+![Mr Increible Chambeador]([https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FJasperDevYT%2Fstatus%2F1659324235280523264&psig=AOvVaw1u-duO6yzaAhKVhULKDevi&ust=1711221277094000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjJspXKiIUDFQAAAAAdAAAAABAD)
