@@ -1,5 +1,5 @@
-### FNK0031 Hexapod
-# Proyecto inconcluso en espera indefinida
+# FNK0031 Hexapod
+## Proyecto inconcluso en espera indefinida
 
 Este proyecto consiste en la creación de una API en python para controlar-
 un robot FNK0031 Hexapod V3 a través de arduino con un set de instrucciones
